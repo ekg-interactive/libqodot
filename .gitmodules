@@ -1,6 +1,7 @@
 [submodule "godot_headers"]
 	path = godot_headers
-	url = https://github.com/GodotNativeTools/godot_headers.git
+	url = https://github.com/vnen/godot-cpp.git
+	branch = gdnative-extensions
 [submodule "libmap"]
 	path = libmap
 	url = https://github.com/Shfty/libmap
